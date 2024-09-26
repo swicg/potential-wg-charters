@@ -1,2 +1,2 @@
-# potential-wg-charters
-Discussion of potential WG charters
+# potential-charters
+Discussion of potential CG and WG charters

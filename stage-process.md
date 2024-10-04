@@ -46,7 +46,7 @@ further standardization MUST be rejected if "clean IPR" cannot be achieved (e.g.
     * [ ] Familiarity with prior art and related parallel work
   * What's asked of the **Community Group**?
     * [ ] The Community Group consensus that the problem is worth spending the Community Group’s time working on
-    * [ ] A home for incubating the proposal. Small decisions will incubate in tracking issues. If and when the champions are ready to more thoroughly document their proposal, the WG chairs will create a repo for the champions to develop a cohesive proposal (e.g., [example](https://github.com/swicg/activitypub-http-signature)). 
+    * [ ] A home for incubating the proposal. Small features will incubate in issues. If and when the champions are ready to more thoroughly document their proposal, the WG chairs will create a repo for the champions to develop the feature or proposal (e.g., [example](https://github.com/swicg/activitypub-http-signature)). 
 
 ## Stage 2: Formalization (Community Group)
 

@@ -18,18 +18,22 @@ If there is ever any question between W3C process requirements and how the group
 
 ## Stage 0: Exploration
 
-The purpose of Stage 0 proposals is to allow anyone to raise and explore the Problem Space without asking for permission. 
+The purpose of Stage 0 proposals is to allow anyone to raise and explore the Problem Space without asking for permission.
 
   * What's needed from individuals?
     * [ ] Typically, a detailed (but IP-safe, high-level) issue describing a user story or problem
-        * Optionally, a personal repo, a blog post with examples, a mock-up, etc. 
+        * Minimally, a personal repo, a blog post with examples, a mock-up, etc.
+        * Maximally, an end-to-end prototype worked on in community venues
   * Who is involved?
-    * CG meeting time should be minimally requested except in the form of "announcements"
+    * CG meeting time should be minimally requested except in the form of "announcements" about progress at this stage
     * CG Mailing List is an appropriate place for high-level or user-story discussion.
     * It is also recommended that community venues like [SocialHub](https://socialhub.activitypub.rocks/), [Indieweb.org Brainstorming](https://indieweb.org/wiki#Brainstorming), [Fediverse Ideas](https://codeberg.org/fediverse/fediverse-ideas/), or the social web itself be used to gather more input and to poll interest.
-    * Descriptive specifications of a prototype (whether as a drafting exercise or as an invitation to prototype interoperability) can be hosted on git forges, including community venues like [the Fediverse Enhancement Proposals](https://codeberg.org/fediverse/fep/)
+    * Descriptive specifications of a prototype (whether as a drafting exercise or as an invitation to prototype interoperability) can be hosted on git forges, including community venues like [the Fediverse Enhancement Proposals](https://codeberg.org/fediverse/fep/).
+      * The CG may request this kind of preliminary community and implementer feedback according to the pre-existing [3-stage Standardization Process Proposal], particularly for extensions to the protocol's required Vocabularies (see the [ActivityPub/ActivityStreams-specific Vocabulary Extension Policy])
+      * Other [Social Web Protocols] may also ask for implementer feedback at this stage
   * What's the optimal outcome?
     * Objective, open description of a problem or user story [set] that is within scope of the CG
+    * IP Safety of work done outside the CG (best insured by keeping discussions and prototyping high-level and application-specific, and postponing considerations of protocol engineering and efficiency)
     * A champion to gather and synthesis feedback, from outside the CG and to coordinate with the CG for review and future stages of work
 
 ## Stage 1: Incubation (Community and/or Community Group)
@@ -93,23 +97,39 @@ The purpose of Stage 3 Proposals is to increase implementation and deployment co
 ## Prior Art
 
 * Social CG precedents:
-  * Evan Promodorou's [ActivityPub/ActivityStreams-specific Vocabulary Extension Policy](https://swicg.github.io/extensions-policy/)
-  * A. Schrijver [3-stage Standardization Process Proposal](https://socialhub.activitypub.rocks/t/3-stage-standards-process-guaranteeing-an-open-and-decentralized-ecosystem/3602)
-  * Indieweb [Living Standard](https://indieweb.org/specifications) Process (see [github discussion here](https://github.com/w3c/strategy/issues/435#issuecomment-1751403081))
+  * Evan Promodorou's [ActivityPub/ActivityStreams-specific Vocabulary Extension Policy]
+  * A. Schrijver [3-stage Standardization Process Proposal]
+  * Indieweb [Living Standard Process] (see [github discussion here](https://github.com/w3c/strategy/issues/435#issuecomment-1751403081))
 * TC39  
-  * Proposals Repo: [https://github.com/tc39/proposals](https://github.com/tc39/proposals)  
-  * Stages: [https://tc39.es/process-document/](https://tc39.es/process-document/)   
+  * [TC39 Proposals]
+  * [TC39 Process Document]
   * Examples  
-    * Decorators Repo: [https://github.com/tc39/proposal-decorators](https://github.com/tc39/proposal-decorators)   
-    * Temporal Repo: [https://github.com/tc39/proposal-temporal](https://github.com/tc39/proposal-temporal)   
-* Immersive Web CG/WG  
-  * Proposals Repo: [https://github.com/immersive-web/proposals](https://github.com/immersive-web/proposals)  
-  * Stage 0 Issues: [https://github.com/immersive-web/proposals/issues](https://github.com/immersive-web/proposals/issues)   
+    * [TC39 Decorators Proposal]
+    * [TC39 Temporal Proposal]
+* Immersive Web CG/WG
+  * [IW Proposals]
+  * [IW Stage 0 Proposals]
   * Examples  
-    * \<model\> Repo: [https://github.com/immersive-web/model-element](https://github.com/immersive-web/model-element)  
-    * Depth sensing Repo: [https://github.com/immersive-web/depth-sensing](https://github.com/immersive-web/depth-sensing)   
+    * [IW Model Element Proposal]
+    * [IW Depth Sensing Proposal]
 * WebAssembly  
-  * Proposals Repo: [https://github.com/WebAssembly/proposals](https://github.com/WebAssembly/proposals)  
-  * Examples  
-    * Tail call Repo: [https://github.com/WebAssembly/tail-call](https://github.com/WebAssembly/tail-call)  
-    * GC Repo: [https://github.com/WebAssembly/gc](https://github.com/WebAssembly/gc)
+  * [WA Proposals]
+  * Examples:  
+    * [WA Tail Call Proposal]
+    * [WA GC Proposal]
+
+[ActivityPub/ActivityStreams-specific Vocabulary Extension Policy]: https://swicg.github.io/extensions-policy/
+[3-stage Standardization Process Proposal]: https://socialhub.activitypub.rocks/t/3-stage-standards-process-guaranteeing-an-open-and-decentralized-ecosystem/3602
+[Living Standard Process]: https://indieweb.org/specifications
+[Social Web Protocols]: https://www.w3.org/TR/social-web-protocols/
+[TC39 Proposals]: https://github.com/tc39/proposals
+[TC39 Process Document]: https://tc39.es/process-document/
+[TC39 Decorators Proposal]: https://github.com/tc39/proposal-decorators
+[TC39 Temporal Proposal]: https://github.com/tc39/proposal-temporal
+[IW Proposals]: https://github.com/immersive-web/proposals
+[IW Stage 0 Proposals]: https://github.com/immersive-web/proposals/issues
+[IW Model Element Proposal]: https://github.com/immersive-web/model-element
+[IW Depth Sensing Proposal]: https://github.com/immersive-web/depth-sensing
+[WA Proposals]: https://github.com/WebAssembly/proposals
+[WA Tail Call Proposal]: https://github.com/WebAssembly/tail-call
+[WA GC Proposal]: https://github.com/WebAssembly/gc

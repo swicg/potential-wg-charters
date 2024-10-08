@@ -13,7 +13,7 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
   of targeted candidate solutions
 * [Stage 2](#stage-2-formalization-community-group): **Formalization** a
   preferred Proposal
-* [Stage 3](#stage-3-implementation-and-normative-draft-working-group:
+* [Stage 3](#stage-3-implementation-and-normative-draft-working-group):
   **Implementation** of the preferred Proposal
 * [Stage 4](#stage-4-publication-or-re-publication-working-group):
   **Publication** of a Proposed Recommendation

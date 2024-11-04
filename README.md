@@ -1,4 +1,4 @@
-# Potential-charters
+# Potential SWICG Charters
 
 Discussion of potential CG and WG charters
 

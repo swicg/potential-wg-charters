@@ -1,4 +1,5 @@
 # Potential-charters
+
 Discussion of potential CG and WG charters
 
 ## Contributing

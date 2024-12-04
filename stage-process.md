@@ -22,7 +22,8 @@ These stages support the W3C process. If there is ever any question between W3C
 process requirements and how the groups will progress their work, the W3C
 process has precedent.
 
-It is recommended that work undertaken within this staging process should be done
+It is recommended that work undertaken intending to be adopted 
+by this staging process consider beginning its unofficial work already
 under the [W3C Software and Document License](https://www.w3.org/copyright/software-license-2023/),
 or similar license from the W3C.
 

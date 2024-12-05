@@ -18,12 +18,15 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
 * [Stage 4](#stage-4-publication-or-re-publication-working-group):
   **Publication** of a Proposed Recommendation
 
-These stages support the W3C process. If there is ever any question between W3C
-process requirements and how the groups will progress their work, the W3C
-process has precedent.
+These stages support the W3C process and provide structure and clarity for all
+work guided by the Community Group. Doing work at any stage is not a commitment
+to higher stages, and the decision of when and whether to proceed to the next
+stage should be discussed on the mailing list and/or at meetings. If there is
+ever any direct conflict between W3C process requirements and how the groups
+will progress their work, the W3C process is authoritative.
 
 It is recommended that work undertaken intending to be adopted 
-by this staging process consider beginning its unofficial work already
+by this staging process (i.e. intended to reach any of the stages 1 through 4) consider beginning its unofficial work already
 under the [W3C Software and Document License](https://www.w3.org/copyright/software-license-2023/),
 or similar license from the W3C.
 

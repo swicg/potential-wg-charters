@@ -30,6 +30,15 @@ by this staging process (i.e. intended to reach any of the stages 1 through 4) c
 under the [W3C Software and Document License](https://www.w3.org/copyright/software-license-2023/),
 or similar license from the W3C.
 
+Note: As this process focuses on documents and deliverables, it is
+"individualistic" and refers to champions (usually one of the editors and/or
+primary authors of deliverable) as its primary control structure. In practice,
+the community group has a marked preference for collaborative work, and the
+formation of a "task force" to collect contributions is the default working
+mode. Task Forces are not required but recommended, and can be formed at any
+stage, although typically community group conversation about forming one
+coincides with the adoption of a Stage 1 work item.
+
 ## Stage 0: Exploration
 
 The purpose of Stage 0 proposals is to allow anyone to raise and explore the
@@ -80,10 +89,10 @@ and fitness for purpose, and finally, identifying the best out of the many
 alternatives.
 
 **Great care** should be taken to avoid substantial technical/design discussions
-happening outside the "IPR" boundary of the Community Group members if normative
-status beyond stage 1 is desired; further standardization MUST be rejected if
-"clean IPR" cannot be achieved (e.g. by post-facto IP grants from all
-substantial contributors).
+happening outside the "IPR" (intellectual property rights) boundary of the
+Community Group members if normative status beyond stage 1 is desired; further
+standardization MUST be rejected if "clean IPR" cannot be achieved (e.g. by
+post-facto IP grants from all substantial contributors).
 
 * What's needed from champions?
   * [ ] Public identification of one or more
@@ -98,6 +107,11 @@ substantial contributors).
     their proposal, the WG chairs will create a repo for the champions to
     develop the feature or proposal (e.g.,
     [example](https://github.com/swicg/activitypub-http-signature)).
+  * [ ] If there is enough interest and diversity of contributors, a CG Task
+    Force can often be helpfully proposed at this point to house and track
+    discussions, but is not a requirement. Particularly for features with IPR
+    consequences, task forces can be helpful for pushing sensitive discussions
+    inside the IPR boundaries of the community group.
 
 ## Stage 2: Formalization (Community Group)
 

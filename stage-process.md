@@ -32,9 +32,13 @@ Note: As this process focuses on documents and deliverables, it is
 primary authors of deliverable) as its primary control structure. In practice,
 the community group has a marked preference for collaborative work, and the
 formation of a "task force" to collect contributions is the default working
-mode. Task Forces are not required but recommended, and can be formed at any
-stage, although typically community group conversation about forming one
-coincides with the adoption of a Stage 1 work item.
+mode. There is no requirement that a task force be lead by a work item's
+champion, and in many cases a task force is best convened by a "problem expert"
+or, e.g., usability researcher rather than a champion of a given solution,
+particularly if multiple solutions are being debated and compared by the group.
+Task Forces are not required but recommended, and can be formed at any stage,
+although typically community group conversation about forming one coincides with
+the adoption of a Stage 1 work item.
 
 ## Stage 0: Exploration
 
